@@ -1,0 +1,137 @@
+ <li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
+<section class="text-center" id="pricing">
+  <div class="py-5">
+    <div class="container">
+      <div class="wow fadeIn">
+        <h2 class="h1 h1-responsive my-5">Our pricing plans</h2>
+        <p class="px-5 mb-5 pb-3 lead blue-grey-text">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate esse quasi,
+          veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.
+        </p>
+      </div>
+      <div class="row wow zoomIn mb-5">
+        <div class="col-lg-3 col-md-12 mb-4">
+          <div class="card card-image">
+            <div class="text-white text-center pricing-card d-flex align-items-center py-3 px-3 rounded indigo-text">
+              <div class="card-body">
+                <div class="h5">Basic</div>
+                <div class="py-4"><span class="display-4">Free</span></div>
+                <ul class="list-unstyled">
+                  <li>
+                    <p><strong>1</strong> person</p>
+                  </li>
+                  <li>
+                    <p><strong>1</strong> projects</p>
+                  </li>
+                  <li>
+                    <p><strong>10</strong> features</p>
+                  </li>
+                  <li>
+                    <p><strong>5GB</strong> storage</p>
+                  </li>
+                </ul><a class="btn btn-outline-indigo mt-4"> Buy now</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-12 mb-4">
+          <div class="card card-image">
+            <div class="text-white text-center pricing-card d-flex align-items-center py-3 px-3 rounded indigo-text">
+              <div class="card-body">
+                <div class="h5">Standard</div>
+                <div class="py-4"><span class="display-4">$19</span><span class="display-5">/m</span></div>
+                <ul class="list-unstyled">
+                  <li>
+                    <p><strong>10</strong> person</p>
+                  </li>
+                  <li>
+                    <p><strong>10</strong> projects</p>
+                  </li>
+                  <li>
+                    <p><strong>100</strong> features</p>
+                  </li>
+                  <li>
+                    <p><strong>20GB</strong> storage</p>
+                  </li>
+                </ul><a class="btn btn-outline-indigo mt-4"> Buy now</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-12 mb-4">
+          <div class="card card-image">
+            <div class="text-white text-center pricing-card d-flex align-items-center py-3 px-3 rounded indigo">
+              <div class="card-body">
+                <div class="h5">Premium</div>
+                <div class="py-4"><span class="display-4">$25</span><span class="display-5">/m</span></div>
+                <ul class="list-unstyled">
+                  <li>
+                    <p><strong>20</strong> person</p>
+                  </li>
+                  <li>
+                    <p><strong>100</strong> projects</p>
+                  </li>
+                  <li>
+                    <p><strong>200</strong> features</p>
+                  </li>
+                  <li>
+                    <p><strong>100GB</strong> storage</p>
+                  </li>
+                </ul><a class="btn btn-outline-white mt-4"> Buy now</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-12 mb-4">
+          <div class="card card-image">
+            <div class="text-white text-center pricing-card d-flex align-items-center py-3 px-3 rounded indigo-text">
+              <div class="card-body">
+                <div class="h5">Enterprise</div>
+                <div class="py-4"><span class="display-4">$99</span><span class="display-5">/m</span></div>
+                <ul class="list-unstyled">
+                  <li>
+                    <p><strong>20+</strong> person</p>
+                  </li>
+                  <li>
+                    <p><strong>Unlimited</strong> projects</p>
+                  </li>
+                  <li>
+                    <p><strong>Unlimited</strong> features</p>
+                  </li>
+                  <li>
+                    <p><strong>1TB</strong> storage</p>
+                  </li>
+                </ul><a class="btn btn-outline-indigo mt-4"> Buy now</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section
+
+
+
+
+
+
+
+
+
+<h2 class="h1 h1-responsive text-center my-5">Trusted by</h2>
+      <p class="px-5 lead text-center blue-grey-text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate esse quasi,
+        veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.
+      </p>
+      <div class="row text-center mt-5 wow zoomIn mb-5">
+        <div class="col-md-3 col-sm-6 mb-4"><img class="img-fluid" src="img/logo-4.png" alt="company logo"/></div>
+        <div class="col-md-3 col-sm-6 mb-4"><img class="img-fluid" src="img/logo-2.png" alt="company logo 1"/></div>
+        <div class="col-md-3 col-sm-6 mb-4"><img class="img-fluid" src="img/logo-3.png" alt="company logo 2"/></div>
+        <div class="col-md-3 col-sm-6 mb-4"><img class="img-fluid" src="img/logo-1.png" alt="company logo 3"/></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+>
