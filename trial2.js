@@ -1,3 +1,7 @@
+
+
+
+
 const person = {
 name : 'akram',
 age : 25,
@@ -8,9 +12,13 @@ return this.name + this.age
 
 }}
 
-let a =1
-let b =1
+
+const members =['cephas','akram','isaac'];
+let membermap = members.map(function(mem){
+
+return '<h1>'+ mem + '</h1>'
 
 
-console.log(a===b);
+})
 
+console.log(membermap)
